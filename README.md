@@ -71,6 +71,20 @@ Install the project dependencies using npm:
 npm install
 ```
 
+**Setup Environment Variables**
+Create Environment variables for setting up and connecting to Appwrite.
+
+```bash
+EXPO_PUBLIC_ENDPOINT = 'https://cloud.appwrite.io/v1'
+EXPO_PUBLIC_PLATFORM = /* Your platform name */
+EXPO_PUBLIC_PROJECTID = /* Your Appwrite Project ID */
+EXPO_PUBLIC_DATABASEID = /* Your Appwrite Database ID */
+EXPO_PUBLIC_USER_COLLECTION_ID = /* Your Appwrite User Collection ID */
+EXPO_PUBLIC_VIDEOS_COLLECTION_ID = /* Your Appwrite Video Collection ID */
+EXPO_PUBLIC_STORAGE_ID = /* Your Appwrite Storage ID */
+```
+
+
 **Running the Project**
 
 ```bash
