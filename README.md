@@ -72,6 +72,7 @@ npm install
 ```
 
 **Setup Environment Variables**
+
 Create Environment variables for setting up and connecting to Appwrite.
 
 ```bash
